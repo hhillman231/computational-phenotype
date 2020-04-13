@@ -1,4 +1,4 @@
-# OVERVIEW
+# Overview
 
 This is a repository for the tasks and data analysis used in the computational phenotype study.
 
@@ -18,21 +18,21 @@ Over the course of the weeks, each session contained the same tasks, but the ord
 
 ## Tasks
 
-All tasks were designed using jsPsych. Custom plug-ins were designed for the change detection task, numerosity comparison task.
+All tasks were designed using jsPsych by Hanna Hillman and Jasmine Zhou.
+Custom plug-ins were designed for the change detection task, numerosity comparison task.
 Custom/modified css scripts were used for the slot-machine/bandit task, change detections task, and numerosity comparison task.
 
-A list of the tasks (and their respective sessions) is as follows:
-Go/NoGo - Session 1
-Random Dot Kinetogram - Session 1
-Slot Machine/ Bandit - Session 2
-Numerosity Comparison - Session 2
-Lottery Ticket - Session 2
-Change Detection - Sesssion 3
-Intertemporal Choice - Session 3
+A list of the tasks (and their respective sessions) is as follows:<br>
+Go/NoGo - Session 1<br>
+Random Dot Kinetogram - Session 1<br>
+Slot Machine/ Bandit - Session 2<br>
+Numerosity Comparison - Session 2<br>
+Lottery Ticket - Session 2<br>
+Change Detection - Sesssion 3<br>
+Intertemporal Choice - Session 3<br>
 
 
 ## Data
 
 Data was saved on our website server, as well as on a database managed by our website server.
-To facilitate this there were 2 php scripts for each task/survey. These follow the templates provided on jsPsych.com.
-https://www.jspsych.org/overview/data/#storing-data-permanently-in-a-mysql-database
+To facilitate this there were 2 php scripts for each task/survey. These follow the templates provided on [jsPsych.com](https://www.jspsych.org/overview/data/#storing-data-permanently-in-a-mysql-database).
