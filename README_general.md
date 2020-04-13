@@ -41,7 +41,7 @@ To facilitate this there were 2 php scripts for each task/survey. These follow t
 
 The tasks in this repository will represent those used in the first week of sessions. There are some redundancies, such as the img folder, jspsych-6.0.5 folder, consent form, and intro questionnaire
 
-<u> Session 1: </u>
+**Session 1:** <br>
 intro_bgr: this is the extended version that also includes demographic information<br>
 bi: barratt impulsiveness survey (only collected once during first week)<br>
 gng: go/no-go task<br>
@@ -51,7 +51,7 @@ consent: the consent forms subjects viewed as approved by our IRB <br>
 jspsych-6.0.5: folder with the version of jsPsych used, as well as any custom plug ins, css, etc.<br>
 img: folder with any images used in this session <br>
 
-<u> Session 2: </u>
+**Session 2:** <br>
 intro_dsnl: this is the shortened version taken at the beginning of all other sessions<br>
 dp: DOSPERT survey (only collected once during first week)<br>
 smb: slot machine/bandit task <br>
@@ -61,7 +61,7 @@ consent: the consent forms subjects viewed as approved by our IRB
 jspsych-6.0.5: folder with the version of jsPsych used, as well as any custom plug ins, css, etc.<br>
 img: folder with any images used in this session <br>
 
-<u> Session 3: </u>
+**Session 3:** <br>
 intro_ic: this is the shortened version taken at the beginning of all other sessions<br>
 itc: intertemporal choice survey task <br>
 cd: change detection task <br>
