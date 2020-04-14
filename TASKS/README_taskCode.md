@@ -38,9 +38,9 @@ de Leeuw, J. R. (2015). jsPsych: A JavaScript library for creating behavioral ex
 |Change Detection       | yes          | tbd      | tbd                                    | 20        |
 |Intertemporal Choice   | no           | tbd      | tbd                                    | 10*       |
 
-* 10 points is a flat rate, no bonus points are calculated based on performance due to the nature of the task being a subjective preference
+/* 10 points is a flat rate, no bonus points are calculated based on performance due to the nature of the task being a subjective preference
 
-## Suspicion Flags**
+## Suspicion Flags
 Suspicion flags have their own column in the data. They vary based on task (see Experiment Features table above). <br>
 
 
@@ -48,9 +48,9 @@ Suspicion flags have their own column in the data. They vary based on task (see 
 - "all_one" = subject chose the same answer for every choice in that block*
 - "time_outs" = subject did not make any active choice for any of the trials in that block*
 - "error_rate" = subject has a suspiciously high error rate - the parameter for this is error_rate/error_cap and is assigned in quick change variables at the top of task code
--
 
-* in the Go/NoGo task, even though not pressing space is technically a choice option, the "all_one" flag will only trigger if they press the space bar for every square presented, if they press nothing throughout the block the "time_outs" flag will be triggered
+
+/* in the Go/NoGo task, even though not pressing space is technically a choice option, the "all_one" flag will only trigger if they press the space bar for every square presented, if they press nothing throughout the block the "time_outs" flag will be triggered
 
 
 **flags during practice block**
