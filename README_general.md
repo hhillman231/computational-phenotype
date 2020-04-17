@@ -35,7 +35,10 @@ A list of the tasks, their abrreviations (used throughout repo), and their respe
 ## Data
 
 Data was saved on our website server, as well as on a database managed by our website server.
-To facilitate this there were 2 php scripts for each task/survey. These follow the templates provided on [jsPsych.com](https://www.jspsych.org/overview/data/#storing-data-permanently-in-a-mysql-database).
+To facilitate this there were 2 php scripts for each task/survey. These follow the templates provided on [jsPsych.com](https://www.jspsych.org/overview/data/#storing-data-permanently-in-a-mysql-database). <br>
+Another PHP script, "save_data" allows for csvs of data to be saved
+<br>
+Stripped down versions can be found in /TASKS/PHP, instructions to modify are in /TASKS/README_taskCode.md
 
 ## Using this repository
 
